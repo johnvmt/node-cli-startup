@@ -1,0 +1,11 @@
+{
+  "name": "node-cli-startup",
+  "description": "Generic app CLI start script",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "./src/cliStartup.js",
+  "dependencies": {
+    "command-line-args": "^5.2.1",
+    "command-line-usage": "^6.1.3"
+  }
+}
