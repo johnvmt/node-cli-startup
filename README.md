@@ -1,4 +1,4 @@
-# node-cli-startup
+# node-startup-cli
 Generic app CLI start script
 
 ## Example

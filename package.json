@@ -1,8 +1,12 @@
 {
-  "name": "node-cli-startup",
+  "name": "node-startup-cli",
   "description": "Generic app CLI start script",
   "version": "0.0.1",
   "type": "module",
+  "repository": "https://github.com/johnvmt/node-startup-cli",
+  "author": "John Murphy-Teixidor <johnvmt@gmail.com>",
+  "license": "MIT",
+  "private": false,
   "main": "./src/cliStartup.js",
   "dependencies": {
     "command-line-args": "^5.2.1",
